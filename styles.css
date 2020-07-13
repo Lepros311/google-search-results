@@ -74,6 +74,8 @@ a {
     padding-right: 10px;
 }
 
+
+
 hr {
     border: 1px solid gray;
     opacity: .1;
@@ -86,5 +88,34 @@ p {
     font-size: 11pt;
     color: gray;
     font-family: Arial;
+    margin-right: 600px;
     margin-top: 10px;
+}
+
+#results-text {
+    margin-left: 160px;
+    font-size: 11pt;
+    color: gray;
+    font-family: Arial;
+    margin-right: 600px;
+    padding-bottom: 5px;
+    line-height: 1.5;
+}
+
+h3 {
+    margin-left: 160px;
+    color: blue;
+    font-family: Arial;
+    margin-top: 20px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+span {
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+strong {
+    font-weight: bold;
 }
