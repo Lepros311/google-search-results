@@ -119,3 +119,16 @@ span {
 strong {
     font-weight: bold;
 }
+
+h2 {
+    margin-left: 160px;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+
+#v1 {
+    margin-left:160px;
+    margin-top:10px;
+}
