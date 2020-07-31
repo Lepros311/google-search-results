@@ -111,7 +111,7 @@ h3 {
     padding-bottom: 5px;
 }
 
-span {
+.ad {
     border: 1px solid green;
     border-radius: 5px;
 }
@@ -132,3 +132,56 @@ h2 {
     margin-left:160px;
     margin-top:10px;
 }
+
+.card-content {
+    padding: 0.5rem;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+    
+}
+
+.video-link  {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 1rem;
+    color: #1a0dab;
+    margin-left: 160px;
+}
+
+.video-link a:hover {
+    text-decoration: underline;
+}
+
+.video-info {
+    font-size: 0.9rem;
+  }
+  .channel {
+    color: #4d5156;
+  }
+  .date {
+    color: #4d5156;
+  }
+
+  .site {
+      color: green;
+  }
+
+  .video-card {
+      border: 1px;
+      border-radius: 5px;
+  }
+
+  .video-grid {
+    position: relative; /*for btn-next button */
+  margin: 1.6rem 0 2rem 0;
+  display: grid;
+  column-gap: 0.4rem;
+  grid-template-columns: repeat(3, 1fr);
+  }
+
+  #v2-content {
+      margin-left: -160px;
+      column-width: 50px;
+  }
