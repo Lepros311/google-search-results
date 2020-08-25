@@ -250,3 +250,52 @@ h2 {
     color: blue;
     
 }
+
+#other  {
+    font-family: arial;
+    margin-left: 160px;
+    padding-top: 20px;}
+
+#other p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border: 1px solid rgba(128, 128, 128, .5);
+    border-radius: 5px;
+    width: 660px;
+}
+
+.flexbox-container-2 {
+    display: flex;
+    margin-left: 150px;
+}
+
+.flexbox-item-2 {
+    width: 210px;
+    margin: 10px;
+    border: 1px solid rgba(128, 128, 128, .5);
+    border-radius: 5px;
+    background-color: white;
+
+    
+}
+
+/**.flexbox-item-1-2 {
+    min-height: 100px;
+}
+
+.flexbox-item-2-2 {
+    min-height: 200px;
+}
+
+.flexbox-item-3-2 {
+    min-height: 300px;
+}
+
+.flexbox-item-4-2 {
+    min-height: 200px;
+}
+
+.flexbox-item-5-2 {
+    min-height: 300px;
+}**/
