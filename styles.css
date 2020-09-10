@@ -288,6 +288,21 @@ a.image-terms {
     padding-right: 0px;
 }
 
+.flexbox-container-3 {
+    display: flex;
+    margin-left: 150px;
+}
+
+.flexbox-item-33 {
+    width: 150px;
+    border: 1px solid rgba(128, 128, 128, .5);
+    border-radius: 5px;
+    margin: 5px;
+    background-color: white;
+    text-align: center;
+    font-size: 10pt;
+}
+
     
 
 
